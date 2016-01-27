@@ -1,5 +1,5 @@
 {
-    "name": "moust/silex-cache",
+    "name": "gadelkareem/silex-cache",
     "type": "library",
     "description": "Cache service provider for Silex application",
     "keywords": ["library", "cache", "service", "provider", "silex"],
